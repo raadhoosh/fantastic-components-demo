@@ -18,6 +18,20 @@ class App extends Component {
               label="Test"
               primary
           />
+          <Button
+              label="Test"
+              secondary
+          />
+          <Button
+              label="Test"
+              warning
+          />
+          <Button
+              label="Test"
+              inverse
+              
+          />
+
       </div>
     );
   }
